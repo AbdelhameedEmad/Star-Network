@@ -1,4 +1,4 @@
-# Star-Network
+# First-Omnet-Simulation
 A simulation network of client nodes and 1 central station.
 1. The central station will send a poll message to each node to notify that
 it is ready to receive messages from them.
